@@ -1,0 +1,49 @@
+{
+    "configurations": [
+        {
+            "browse": {
+                "databaseFilename": "",
+                "limitSymbolsToIncludedHeaders": true
+            },
+            "includePath": [
+                "/home/mini/code/baiqing/devel/include/**",
+                "/home/mini/code/sl_ws/devel/include/**",
+                "/home/mini/code/localization_ws/devel/include/**",
+                "/home/mini/code/catkin_ws/devel/include/**",
+                "/home/mini/code/test_ws/devel/include/**",
+                "/home/mini/ros/bm_ws/devel/include/**",
+                "/opt/ros/kinetic/include/**",
+                "/home/mini/code/catkin_ws/src/A-LOAM-devel/include/**",
+                "/home/mini/code/catkin_ws/src/VINS-Mono-Optimization-master/camera_model/include/**",
+                "/home/mini/code/localization_ws/src/VINS-FUSION-leanrning-master/camera_models/include/**",
+                "/home/mini/code/baiqing/src/package/dashan_serial/include/**",
+                "/home/mini/code/catkin_ws/src/hdl_graph_slam-master/include/**",
+                "/home/mini/code/catkin_ws/src/hdl_localization-master/include/**",
+                "/home/mini/code/test_ws/src/hector_slam-melodic-devel/hector_geotiff/include/**",
+                "/home/mini/code/test_ws/src/hector_slam-melodic-devel/hector_map_tools/include/**",
+                "/home/mini/code/test_ws/src/hector_slam-melodic-devel/hector_mapping/include/**",
+                "/home/mini/code/test_ws/src/hector_slam-melodic-devel/hector_marker_drawing/include/**",
+                "/home/mini/code/localization_ws/src/indoor_localization/include/**",
+                "/home/mini/code/catkin_ws/src/SC-LeGO-LOAM-master/SC-LeGO-LOAM/LeGO-LOAM/include/**",
+                "/home/mini/code/sl_ws/src/chapter_2/lidar_localization/include/**",
+                "/home/mini/code/test_ws/src/lins/include/**",
+                "/home/mini/code/test_ws/src/LIO-SAM-master/include/**",
+                "/home/mini/code/localization_ws/src/liv_slam/include/**",
+                "/home/mini/code/test_ws/src/loam_livox-master/include/**",
+                "/home/mini/code/catkin_ws/src/loam_velodyne/include/**",
+                "/home/mini/code/localization_ws/src/localization/include/**",
+                "/home/mini/code/test_ws/src/msckf_vio-master/include/**",
+                "/home/mini/code/localization_ws/src/msf_localization/include/**",
+                "/home/mini/code/localization_ws/src/ndt_omp/include/**",
+                "/home/mini/code/catkin_ws/src/robot_localization-melodic-devel/include/**",
+                "/usr/include/**"
+            ],
+            "name": "ROS",
+            "intelliSenseMode": "gcc-x64",
+            "compilerPath": "/usr/bin/gcc",
+            "cStandard": "c11",
+            "cppStandard": "c++17"
+        }
+    ],
+    "version": 4
+}

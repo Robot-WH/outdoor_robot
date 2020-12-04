@@ -1,0 +1,2 @@
+package/dashan_msg:package/dashan_serial:package/indoor_localization:package/mbot_teleop
+-DCATKIN_DEVEL_PREFIX=/home/mini/code/outdoor_robot/devel -DCMAKE_INSTALL_PREFIX=/home/mini/code/outdoor_robot/install -G Unix Makefiles
